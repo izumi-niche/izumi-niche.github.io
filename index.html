@@ -19,10 +19,25 @@
 	<script src="js/reason.js"></script>
 	<script src="js/script.js"></script>
 
-	<button type="button" onclick="document.getElementById('result').innerHTML = doit()">Give me a new one!</button>
-	<p id="result"></p>
+	<button type="button" onclick="doit2()">Give me a new one!</button>
+	<p id="result0"></p>
+	<p id="result1"></p>
+	<p id="result2"></p>
+	<p id="result3"></p>
+	<p id="result4"></p>
+	<p id="result5"></p>
 
 	<div class="bottom">by <a href='https://twitter.com/_theonlywill'>@_theonlywill</a></div>
 
 </body>
+  <script>
+    function doit2() {
+      document.getElementById('result5').innerHTML = document.getElementById('result4').innerHTML;
+      document.getElementById('result4').innerHTML = document.getElementById('result3').innerHTML;
+      document.getElementById('result3').innerHTML = document.getElementById('result2').innerHTML;
+      document.getElementById('result2').innerHTML = document.getElementById('result1').innerHTML;
+      document.getElementById('result1').innerHTML = document.getElementById('result0').innerHTML;
+      document.getElementById('result0').innerHTML = doit();
+    }
+  </script>
 </html>
