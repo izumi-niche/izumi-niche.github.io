@@ -988,5 +988,28 @@ const char_list = {
         "Líf",
         "Thrasir",
         "Loki"
+    ],
+    "tms": [
+        "Itsuki",
+        "Tsubasa",
+        "Kiria",
+        "Touma",
+        "Mamori",
+        "Eleonora",
+        "Yashiro",
+        "Maiko",
+        "Barry Goodman",
+        "Chrom",
+        "Caeda",
+        "Tharja",
+        "Cain",
+        "Draug",
+        "Virion",
+        "Navarre",
+        "Ayaha",
+        "Tiki",
+        "Tiki=Waifu",
+        "Medeus",
+        "Shio"
     ]
 }

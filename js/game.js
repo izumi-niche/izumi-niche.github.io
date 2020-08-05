@@ -1,8 +1,8 @@
 const game_list = {
 	'archanea': {
 		'fe11': 'Shadow Dragon',
-		'fe12': 'New Mystery'
-	},
+		'fe12': 'New Mystery',
+  },
 	'magvel': {
 		'fe8': 'Sacred Stones'
 	},
@@ -14,7 +14,7 @@ const game_list = {
 		'fe14': 'Fates'
 	},
 	'ylisse': {
-		'fe13': 'Awakening'
+		'fe13': 'Awakening',
 	},
 	'elibe': {
 		'fe6': 'Binding Blade',
@@ -32,5 +32,8 @@ const game_list = {
 	},
 	'askr': {
 		'feh': 'Heroes'
-	}
+	},
+  'tokyo': {
+    'tmsfe': 'Tokyo Mirage Sessions #FE'
+  }
 }

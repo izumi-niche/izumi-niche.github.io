@@ -5,5 +5,7 @@ const reason_list = [
 	"romance",
 	"slavery",
 	"casuals",
-	"elitists"
+	"elitists",
+  "sexualization",
+  "vagina bones"
 ]
