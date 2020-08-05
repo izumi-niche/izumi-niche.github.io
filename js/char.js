@@ -989,7 +989,7 @@ const char_list = {
         "Thrasir",
         "Loki"
     ],
-    "tms": [
+    "tmsfe": [
         "Itsuki",
         "Tsubasa",
         "Kiria",
